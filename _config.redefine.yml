@@ -429,8 +429,14 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
+      - name: LIFE
+        artist: Neuro-sama/Vedal
+        url: audios/LIFE.mp3
+        cover: audios/LIFE.jpg
+        lrc: audios/LIFE.lrc
       - name: Chinatown Blues
         artist: Neuro-sama/Vedal
+        url: audios/Chinatown Blues.mp3
         cover: audios/Chinatown Blues.jpg
         lrc: audios/Chinatown Blues.lrc
       - name: 越权访问
