@@ -29,7 +29,7 @@ defaults:
   # Site logo
   logo: /images/logo.png
   # Site avatar
-  avatar: https://cravatar.cn/avatar/c93657813a16b81743e545ba9048132d?size=260&default=404
+  avatar: https://pic1.imgdb.cn/item/66a53bb0d9c307b7e9081739.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -128,7 +128,7 @@ home_banner:
   title: Duce.Travel 渡星旅
   # Home banner subtitle
   subtitle:
-    text: ["『引渡迷津之星，启明者也。』"] # subtitle text, array
+    text: ["『远渡重天，跨越星海。』", "开源共享，协作共建，透明治理，自由创新。"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -362,7 +362,7 @@ comment:
       proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
-      version: 1.6.40 # Twikoo version, do not modify if you dont know what it is
+      version: 1.6.44 # Twikoo version, do not modify if you dont know what it is
       server_url: https://duce-travel-twikoo.netlify.app/.netlify/functions/twikoo # Twikoo server URL. e.g. https://example.example.com
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
