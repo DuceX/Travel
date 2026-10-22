@@ -38,3 +38,4 @@ onlyBuiltDependencies:
   - "@parcel/watcher"
   - esbuild
   - swup
+  - sharp
