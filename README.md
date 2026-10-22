@@ -253,3 +253,4 @@ Every contribution adds a new line to Shirone's spellbook. Thank you to everyone
 ## License
 
 Shirone is released under the [MIT License](./LICENSE). The repository retains the original copyright notice required by that license.
+# Travel
